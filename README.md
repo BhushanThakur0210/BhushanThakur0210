@@ -1,6 +1,14 @@
 <h1 align="center">Hi 👋, I'm Bhushan Vishnu Thakur</h1>
 <h3 align="center">Aspiring Data Analyst | Python & Power BI Enthusiast from India</h3>
 
+ <p align="center">
+<img src="https://img.shields.io/badge/Age-21-blue" />
+  <img src="https://img.shields.io/badge/Focus-Data%20Analyst-blue" />
+  <img src="https://img.shields.io/badge/Lives-Panvel,%20Maharashtrablue" />
+  <img src="https://img.shields.io/badge/Languages-English,%20Hindi%20%26%20Marathi-blue" />
+</p>
+<hr>
+
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 - 🔍 Currently exploring data storytelling with **Power BI**  
