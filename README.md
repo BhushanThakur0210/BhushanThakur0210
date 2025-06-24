@@ -4,7 +4,7 @@
  <p align="center">
 <img src="https://img.shields.io/badge/Age-21-blue" />
   <img src="https://img.shields.io/badge/Focus-Data%20Analyst-blue" />
-  <img src="https://img.shields.io/badge/Lives-Panvel,%20Maharashtrablue" />
+  <img src="https://img.shields.io/badge/Lives-Panvel,%20Maharashtra-blue" />
   <img src="https://img.shields.io/badge/Languages-English,%20Hindi%20%26%20Marathi-blue" />
 </p>
 <hr>
