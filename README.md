@@ -15,7 +15,8 @@
 - 💬 Ask me about **Python, SQL, Data Analysis, Dashboards**
 - 🎯 Interested in: **Mythology, Podcasts, Singing, and Volunteering**
 - 📫 How to reach me: [LinkedIn](https://linkedin.com/in/bhushan-thakur-48b79222a)  
-- 📸 Fun side: [Instagram](https://www.instagram.com/bhushanthakur0210/)  
+- 📸 Fun side: [Instagram](https://www.instagram.com/bhushanthakur0210/)
+- 👉 View my professional **[Resume](https://drive.google.com/file/d/1Fs_yt-cL2MT4kT3QaxHb51BM78hJ-jev/view?usp=sharing)**  
 - 🌐 Portfolio: Coming Soon!
 
 ---
