@@ -11,12 +11,18 @@
 
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-- 🔍 Currently exploring data storytelling with **Power BI**  
+- 🔍 Currently exploring data storytelling with **Power BI**
+    
 - 💬 Ask me about **Python, SQL, Data Analysis, Dashboards**
+  
 - 🎯 Interested in: **Mythology, Podcasts, Singing, and Volunteering**
-- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/bhushan-thakur-48b79222a)  
-- 📸 Fun side: [Instagram](https://www.instagram.com/bhushanthakur0210/)
-- 👉 View my professional **[Resume](https://drive.google.com/file/d/1Fs_yt-cL2MT4kT3QaxHb51BM78hJ-jev/view?usp=sharing)**  
+  
+- 📫 How to reach me: **[LinkedIn](https://linkedin.com/in/bhushan-thakur-48b79222a)**
+   
+- 📸 Fun side: **[Instagram](https://www.instagram.com/bhushanthakur0210/)**
+  
+- 👉 View my professional **[Resume](https://drive.google.com/file/d/1Fs_yt-cL2MT4kT3QaxHb51BM78hJ-jev/view?usp=sharing)**
+  
 - 🌐 Portfolio: Coming Soon!
 
 ---
