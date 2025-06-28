@@ -11,6 +11,7 @@
 
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
+
 - 🔍 Currently exploring data storytelling with **Power BI**
     
 - 💬 Ask me about **Python, SQL, Data Analysis, Dashboards**
@@ -26,25 +27,18 @@
 - 🌐 Portfolio: Coming Soon!
   
 
+
 ---
 
 ### 🌐 Connect with Me:
 <p align="left">
-  <a href="https://linkedin.com/in/bhushan-thakur-48b79222a" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="30" height="30" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.instagram.com/bhushanthakur0210/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" width="30" height="30" />
-  </a>
-</p>
-
-<h3 align="left">📬 Contact Me:</h3>
-<p align="left">
-  <a href="mailto:bhushan0210thakur@gmail.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/gmail.svg" alt="Gmail" width="30" height="30" />
-    <span style="font-size: 16px; margin-left: 10px; vertical-align: middle;">bhushan0210thakur@gmail.com</span>
-  </a>
+<a href="https://linkedin.com/in/bhushan-thakur-48b79222a" target="blank"><img align="center" src="https://github.com/bhaveshppatil/bhaveshppatil/blob/main/Social%20Icons/linkedin.png" alt="https://linkedin.com/in/bhushan-thakur-48b79222a" height="50" width="50" /></a>
+<a href="mailto:bhushan0210thakur@gmail.com" target="_blank">
+  <img align="center" src="https://github.com/bhaveshppatil/bhaveshppatil/blob/main/Social%20Icons/gmail.png" alt="Email Bhushan" height="50" width="50" />
+</a>
+<a href="https://x.com/Bhushan_0210" target="blank"><img align="center" src="https://github.com/bhaveshppatil/bhaveshppatil/blob/main/Social%20Icons/twitter.png" alt="[https://twitter.com/paragpatil187](https://x.com/Bhushan_0210)" height="50" width="50" /></a>
+<a href="https://www.instagram.com/bhushanthakur0210/" target="_blank"><img align="center"
+src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" width="30" height="30" /></a>
 </p>
 
 
